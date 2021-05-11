@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Aspiring Data Scientist Studying at CodeUp.
+
+Skills:
+
+🐍 Python
+🎈 SQL
+🟧 Tableau
+˃_ Command Line
+📊 Google Sheets
+
+Libraries:
+  - Pandas
+  - Numpy
+  - Seaborn
+  - Matplotlib
+
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
+
+- ⚡ Fun fact: I speak fluent Mandarin Chinese 🈶
 -->
