@@ -6,10 +6,15 @@
 Skills:
 
 🐍 Python\
+
 🎈 SQL\
+
 🟧 Tableau\
+
 ˃_ Command Line\
+
 📊 Google Sheets
+
 
 Libraries:
   - Pandas
