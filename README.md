@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+My name is Desiree McElroy
 
 - 🌱 Aspiring Data Scientist Studying at CodeUp.
 
-Skills:
+#### Skills:
 
 🐍 Python\
 
@@ -16,15 +17,16 @@ Skills:
 📊 Google Sheets
 
 
-Libraries:
+#### Libraries:
   - Pandas
   - Numpy
   - Seaborn
   - Matplotlib
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
 
-- ⚡ Fun fact: I speak fluent Mandarin Chinese 🈶
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
+
+⚡ Fun fact: I speak fluent Mandarin Chinese 🈶
 
 
 <!--
