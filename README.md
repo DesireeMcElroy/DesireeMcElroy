@@ -5,10 +5,10 @@
 
 Skills:
 
-🐍 Python
-🎈 SQL
-🟧 Tableau
-˃_ Command Line
+🐍 Python\
+🎈 SQL\
+🟧 Tableau\
+˃_ Command Line\
 📊 Google Sheets
 
 Libraries:
