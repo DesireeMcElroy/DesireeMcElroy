@@ -2,9 +2,9 @@
 
 My name is Desiree McElroy
 
-🌱 Aspiring Data Scientist Studying at CodeUp.
-🎓 BA in Natural Sciene and Mathematics
-🉐 AA in Mandarin Chinese
+🌱 Aspiring Data Scientist Studying at CodeUp\
+🎓 BA in Natural Sciene and Mathematics\
+🉐 AA in Mandarin Chinese\
 🪖 US Navy Veteran and Reservist
 
 #### Skills:
