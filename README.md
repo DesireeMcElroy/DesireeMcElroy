@@ -13,7 +13,7 @@ My name is Desiree McElroy
 🎈 SQL 
 🟧 Tableau 
 📊 Google Sheets 
->>> Command Line
+\>>> Command Line
 
 
 #### Libraries:
