@@ -9,11 +9,11 @@ My name is Desiree McElroy
 
 #### Skills:
 
-🐍 Python
-🎈 SQL
-🟧 Tableau
-˃_ Command Line
-📊 Google Sheets
+🐍 Python 
+🎈 SQL 
+🟧 Tableau 
+📊 Google Sheets 
+>>> Command Line
 
 
 #### Libraries:
