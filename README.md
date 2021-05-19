@@ -10,13 +10,9 @@ My name is Desiree McElroy
 #### Skills:
 
 🐍 Python
-
 🎈 SQL
-
 🟧 Tableau
-
 ˃_ Command Line
-
 📊 Google Sheets
 
 
