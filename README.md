@@ -25,7 +25,7 @@ My name is Desiree McElroy
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
 
-⚡ Fun fact: I speak fluent Mandarin Chinese 🈶
+⚡ Fun fact: I am fluent in Mandarin Chinese 🈶
 
 
 <!--
