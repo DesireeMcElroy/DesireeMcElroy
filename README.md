@@ -3,7 +3,7 @@
 My name is Desiree McElroy
 
 🌱 Aspiring Data Scientist Studying at CodeUp\
-🎓 BA in Natural Sciene and Mathematics\
+🎓 BA in Natural Science and Mathematics\
 🉐 AA in Mandarin Chinese\
 🪖 US Navy Veteran and Reservist
 
