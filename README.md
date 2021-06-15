@@ -21,6 +21,8 @@ My name is Desiree McElroy
   - Numpy
   - Seaborn
   - Matplotlib
+  - Math/Stats
+  - Sci-Kit Learn
 
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
