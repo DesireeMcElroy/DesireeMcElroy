@@ -3,6 +3,7 @@
 Welcome to my page!
 
 A little about me:
+\
 🌱 Aspiring Data Scientist Studying at CodeUp\
 🎓 BA in Natural Science and Mathematics\
 🉐 AA in Mandarin Chinese\
