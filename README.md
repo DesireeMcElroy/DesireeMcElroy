@@ -3,7 +3,8 @@
 Welcome to my page!
 
 A little about me:
-\
+
+
 🌱 Aspiring Data Scientist Studying at CodeUp\
 🎓 BA in Natural Science and Mathematics\
 🉐 AA in Mandarin Chinese\
@@ -25,6 +26,8 @@ A little about me:
   - Matplotlib
   - Math/Stats
   - Sci-Kit Learn
+  - NLTK
+  - SciPy
 
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
