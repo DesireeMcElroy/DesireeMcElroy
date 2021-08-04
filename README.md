@@ -28,6 +28,7 @@ A little about me:
   - Sci-Kit Learn
   - NLTK
   - SciPy
+  - Spark API
 
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
