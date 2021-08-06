@@ -5,7 +5,7 @@ Welcome to my page!
 A little about me:
 
 
-🌱 Aspiring Data Scientist Studying at CodeUp\
+🌱 Data Scientist\
 🎓 BA in Natural Science and Mathematics\
 🉐 AA in Mandarin Chinese\
 🪖 US Navy Veteran and Reservist
