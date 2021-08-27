@@ -15,8 +15,9 @@ A little about me:
 🐍 Python 
 🎈 SQL 
 🟧 Tableau 
-📊 Google Sheets 
-\>>> Command Line
+📊 Google Suite 
+\>>> Git
+📒 Jupyter Lab
 
 
 #### Libraries:
@@ -32,6 +33,8 @@ A little about me:
 
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
+
+💹 Check out my [Tableau](https://public.tableau.com/app/profile/desiree.mcelroy) portfolio!
 
 ⚡ Fun fact: I am fluent in Mandarin Chinese 🈶
 
