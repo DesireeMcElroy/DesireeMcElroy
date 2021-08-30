@@ -32,9 +32,9 @@ A little about me:
   - Spark API
 
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
+📫  You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
 
-💹 Check out my [Tableau](https://public.tableau.com/app/profile/desiree.mcelroy) portfolio!
+💹  Check out my [Tableau](https://public.tableau.com/app/profile/desiree.mcelroy) portfolio!
 
 ⚡ Fun fact: I am fluent in Mandarin Chinese 🈶
 
