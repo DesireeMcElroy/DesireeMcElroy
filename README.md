@@ -12,11 +12,11 @@ A little about me:
 
 #### Skills:
 
-🐍 Python 
-🎈 SQL 
-🟧 Tableau 
-📊 Google Suite 
-\>>> Git
+🐍 Python\
+🎈 SQL\
+🟧 Tableau\
+📊 Google Suite\
+\>_ Git\
 📒 Jupyter Lab
 
 
@@ -30,6 +30,7 @@ A little about me:
   - NLTK
   - SciPy
   - Spark API
+  - BeautifulSoup
 
 
 📫  You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
