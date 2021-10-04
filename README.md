@@ -17,7 +17,8 @@ A little about me:
 🟧 Tableau\
 📊 Google Suite\
 \>_ Git\
-📒 Jupyter Lab
+📒 Jupyter Lab\
+% RStudio
 
 
 #### Libraries:
