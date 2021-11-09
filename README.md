@@ -17,7 +17,7 @@ A little about me:
 🟧 Tableau\
 📊 Google Suite\
 \>_ Git\
-📒 Jupyter Lab\
+📒 Jupyter\
 % RStudio
 
 
@@ -28,9 +28,10 @@ A little about me:
   - Matplotlib
   - Math/Stats
   - Sci-Kit Learn
+  - TensorFlow
   - NLTK
   - SciPy
-  - Spark API
+  - PySpark
   - BeautifulSoup
 
 
