@@ -17,7 +17,7 @@ A little about me:
 🟧 Tableau\
 📊 Google Suite\
 \>_ Git\
-📒 Jupyter Notebooks\
+📒 Jupyter Notebooks
 
 
 #### Libraries:
