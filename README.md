@@ -17,8 +17,7 @@ A little about me:
 🟧 Tableau\
 📊 Google Suite\
 \>_ Git\
-📒 Jupyter\
-% RStudio
+📒 Jupyter Notebooks\
 
 
 #### Libraries:
@@ -29,10 +28,10 @@ A little about me:
   - Math/Stats
   - Sci-Kit Learn
   - TensorFlow
+  - Keras
   - NLTK
   - SciPy
   - PySpark
-  - BeautifulSoup
 
 
 📫  You can reach me on [LinkedIn](https://www.linkedin.com/in/desiree-mcelroy/)
