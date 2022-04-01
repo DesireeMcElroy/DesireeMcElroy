@@ -19,6 +19,9 @@ A little about me:
 \>_ Git\
 📒 Jupyter Notebooks
 
+#### Certificates
+AWS Machine Learning Specialty
+
 
 #### Libraries:
   - Pandas
