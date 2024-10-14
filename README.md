@@ -11,6 +11,7 @@ A little about me:
 🪖 US Navy Veteran and Reservist
 
 #### Skills:
+Statistics | Classical Machine Learning | Data Pre-processing
 Deep Learning | Computer Vision | Image Classification | Object Detection\
 Natural Language Processing | Data Analysis & Visualization | Amazon Web Services
 
@@ -18,7 +19,7 @@ Natural Language Processing | Data Analysis & Visualization | Amazon Web Service
 #### Tech:
 
 🐍 Python\
-🎈 SQL/NoSQL/Elasticsearch\
+🎈 SQL/Snowflake\
 🟧 Tableau/Kibana\
 📊 Amazon Web Services\
 \>_ Git/Version Control Systems\
@@ -35,7 +36,6 @@ Natural Language Processing | Data Analysis & Visualization | Amazon Web Service
   - TensorFlow
   - Keras
   - Pytorch
-  - NLTK
   - SciPy
   - OpenCV
 
