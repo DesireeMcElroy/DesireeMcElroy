@@ -11,7 +11,7 @@ A little about me:
 🪖 US Navy Veteran and Reservist
 
 #### Skills:
-Statistics | Classical Machine Learning | Data Pre-processing
+Statistics | Classical Machine Learning | Data Pre-processing\
 Deep Learning | Computer Vision | Image Classification | Object Detection\
 Natural Language Processing | Data Analysis & Visualization | Amazon Web Services
 
